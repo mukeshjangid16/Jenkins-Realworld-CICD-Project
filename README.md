@@ -35,6 +35,7 @@
     ![ProjectRepositoryCode!](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/project-repository-code2.png)
 
 2) Create An IAM Profile/Role For The Ansible Automation Engine (Dynamic Inventory)
+3) #hii
 - Create an EC2 Service Role in IAM with AmazonEC2FullAccess Privilege 
 - Navigate to IAM
 ![IAM!](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/Screen%20Shot%202023-10-03%20at%206.20.44%20PM.png)
